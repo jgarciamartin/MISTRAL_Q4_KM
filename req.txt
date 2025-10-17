@@ -1,0 +1,8 @@
+langchain
+langchain-community
+chromadb
+pypdf
+unstructured
+python-docx
+python-pptx
+streamlit
